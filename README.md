@@ -1,2 +1,3 @@
-# next-bug-tracker-j4ax
-A bug and issue tracking system for modern development workflows
+# Next Bug Tracker J4Ax
+
+A bug and issue tracking system for modern development workflows.
